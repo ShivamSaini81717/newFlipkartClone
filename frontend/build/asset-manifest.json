@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4cdbe74.css",
+    "main.js": "/static/js/main.a6fd2108.js",
+    "static/media/payment-methods.svg": "/static/media/payment-methods.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
+    "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
+    "static/media/furniture.png": "/static/media/furniture.c167da994e4cf873c7f5.png",
+    "static/media/1.webp": "/static/media/1.1119ceb4ce03dbc0b0e4.webp",
+    "static/media/success.png": "/static/media/success.a6e71fb67ec0538ff2ee.png",
+    "static/media/failed.png": "/static/media/failed.25f9a5080785b1e6642c.png",
+    "static/media/2.webp": "/static/media/2.7db3b049b7e1c614d04e.webp",
+    "static/media/logo.png": "/static/media/logo.3b0baaaf50ed860dcc7a.png",
+    "static/media/3.webp": "/static/media/3.d135042fa6b9881867cd.webp",
+    "static/media/realme-9-pro.webp": "/static/media/realme-9-pro.5a99ab97f9f4b611aadc.webp",
+    "static/media/4.webp": "/static/media/4.3334db007a7c06e824ea.webp",
+    "static/media/5.webp": "/static/media/5.37c31c8884056fbf093f.webp",
+    "static/media/Fashion.webp": "/static/media/Fashion.9544103f924f3066531c.webp",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Grocerys.webp": "/static/media/Grocerys.dc32070acbbdbdc07dc1.webp",
+    "static/media/Beauty.webp": "/static/media/Beauty.057d2275457af97de570.webp",
+    "static/media/Appliances.webp": "/static/media/Appliances.ed1816ca59bae1a751e8.webp",
+    "static/media/Electronic.webp": "/static/media/Electronic.5b0a908ea73c43706cd8.webp",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/Home.webp": "/static/media/Home.f257dfd9e1dca603cbe0.webp",
+    "static/media/phone-1.webp": "/static/media/phone-1.8d02dfd9c236e80cfdd9.webp",
+    "static/media/Travels.webp": "/static/media/Travels.85e98d3273c65a561890.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c4cdbe74.css",
+    "static/js/main.a6fd2108.js"
+  ]
+}
